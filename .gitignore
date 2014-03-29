@@ -1,0 +1,8 @@
+*~
+*.ini
+Bootstrap.php
+.settings
+.buildpath
+.project
+index.php
+*zend_cache
